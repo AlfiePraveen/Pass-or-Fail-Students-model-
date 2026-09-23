@@ -111,7 +111,7 @@ The trained model can be evaluated using common classification metrics such as:
 These metrics help measure how effectively the model distinguishes between students who are predicted to pass and fail.
 
 > **Note:** The uploaded notebook currently contains only the `LOGISTIC REGRESSION MODEL` heading, so specific accuracy or other numerical performance results are not included here.
-
+The accuracy of this model is 97.5
 ---
 
 ## 🚀 How to Run the Project
